@@ -1,0 +1,19 @@
+{
+  "questions": [
+    {
+      "text": "which number is natural?",
+      "answers": ["-20", "12", "1.2"],
+      "correct": 1
+    },
+    {
+      "text": "which number is prime?",
+      "answers": ["16", "18", "23"],
+      "correct": 2
+    },
+    {
+      "text": "2 + 2 * 2 = ?",
+      "answers": ["6", "8", "3"],
+      "correct": 0
+    }
+  ]
+}
